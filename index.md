@@ -12,7 +12,6 @@
 - [Torrinomedica - Farmaci](https://www.torrinomedica.it/cercaunfarmaco){:target="_blank"}
 
 ### CALCOLATORI
-- [Radcalculators](https://radcalculators.org/){:target="_blank"}
 - [MedCals](https://www.mdcalc.com/){:target="_blank"}
 
 ### RIVISTE
