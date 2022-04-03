@@ -6,13 +6,40 @@
 
 ---
 
-## FEBBRE
 
-## TOSSE
 
-## RINORREA
+### FEBBRE (> 37,5°C)
 
-## FARINGODINIA
+**Paracetamolo**
+
+**Posologia xOS**
+
+1000mg ogni 8h
+
+(max 3000mg/die - intervallo minimo 4h)
+
+**Farmacocinetica**
+
+picco [plasmatico] in 30-60min
+
+emivita 2h
+
+Metabolismo epatico
+- 60-80% glucoronazione
+- 20-30% solfoconiugata
+- &larr;% CitP450 CYP2E1 convertito in N-acetil-p-benzochinoneimina } metabolita tossico inattvato da glutatione; se alta dose 
+
+90% eliminazione urinaria in 24h } in Insuff.Renale eliminazione ritardata
+
+
+
+
+
+### TOSSE
+
+### RINORREA
+
+### FARINGODINIA
 
 ---
 
@@ -55,6 +82,8 @@
 ### SINUSITE
 
 ### OTITE
+
+### TONSILLITE
 
 ### FARINGITE
 
