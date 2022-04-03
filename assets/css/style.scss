@@ -1,0 +1,64 @@
+---
+---
+@import "{{ site.theme }}";
+body {
+  background-color: #FAFAFA;
+  color: #6E7580;
+}
+
+a {
+  color: #399EE6;
+}
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #1F2430;
+  background-image: none;
+  padding: 2rem 4rem;
+}
+
+.project-tagline {
+    display: none;
+}
+
+.btn {
+  display: none;
+}
+
+.topnav{
+  text-align: center;
+  box-sizing: unset;
+}
+
+.topnav a{
+  color: #86B300;
+  padding: 0.5em;
+}
+
+
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #FA6E32;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+  }
+}
+
+.homepage-icons{
+  text-align: center;
+}
+
+.homepage-icons li {
+  display: inline;
+}
+
+.site-footer {
+  display: none;
+}
