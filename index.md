@@ -2,7 +2,42 @@
 
 - - -
 
-## CEFALEA
+## RISORSE UTILI
+
+### FARMACI
+
+- [Codifa - Farmaci](https://www.codifa.it/farmaci){:target="_blank"}
+- [Codifa - Parafarmaci](https://www.codifa.it/parafarmaci){:target="_blank"}
+- [Codifa - Integratori](https://www.codifa.it/integratori){:target="_blank"}
+- [Torrinomedica - Farmaci](https://www.torrinomedica.it/cercaunfarmaco){:target="_blank"}
+
+### CALCOLATORI
+- [Radcalculators](https://radcalculators.org/){:target="_blank"}
+- [MedCals](https://www.mdcalc.com/){:target="_blank"}
+
+### RIVISTE
+
+- [The New England Journal of Medicine - Review](https://www.nejm.org/medical-articles/review-article?){:target="_blank"}
+
+### LINEE GUIDA
+
+- [UpToDate](https://www.wolterskluwer.com/en/solutions/uptodate){:target="_blank"}
+- [Dynamed](https://www.dynamed.com/){:target="_blank"}
+- [Manuale MSD](https://www.msdmanuals.com/it/professionale){:target="_blank"}
+- [Drugs](https://www.drugs.com){:target="_blank"}
+
+### RICERCA
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}{:target="_blank"}
+- [Google Scholar](https://www.deepl.com/translator){:target="_blank"}
+
+- - -
+
+## PATOLOGIE
+
+---
+
+### CEFALEA
 
 ---
 
@@ -43,29 +78,29 @@ Metabolismo epatico
 
 ---
 
-## CERVICALGIA
+### CERVICALGIA
 
-## STIRAMENTO
+### STIRAMENTO
 
-## STRAPPO
+### STRAPPO
 
-## EMATOMA
+### EMATOMA
 
-## DISTORSIONE
+### DISTORSIONE
 
-## LUSSAZIONE
+### LUSSAZIONE
 
-## FRATTURA
+### FRATTURA
 
 ---
 
-## NAUSEA
+### NAUSEA
 
-## VOMITO
+### VOMITO
 
-## DIARREA
+### DIARREA
 
-## STIPSI
+### STIPSI
 
 ---
 
