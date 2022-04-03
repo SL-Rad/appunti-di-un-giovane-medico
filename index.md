@@ -1,0 +1,55 @@
+# APPUNTI DI UN GIOVANE MEDICO
+
+- - -
+
+## CEFALEA
+
+---
+
+## FEBBRE
+
+## TOSSE
+
+## RINORREA
+
+## FARINGODINIA
+
+---
+
+## CERVICALGIA
+
+## STIRAMENTO
+
+## STRAPPO
+
+## EMATOMA
+
+## DISTORSIONE
+
+## LUSSAZIONE
+
+## FRATTURA
+
+---
+
+## NAUSEA
+
+## VOMITO
+
+## DIARREA
+
+## STIPSI
+
+---
+
+## RAFFREDDORE
+
+## INFLUENZA
+
+## SINUSITE
+
+## OTITE
+
+## FARINGITE
+
+
