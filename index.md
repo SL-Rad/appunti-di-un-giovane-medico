@@ -27,7 +27,7 @@ emivita 2h
 Metabolismo epatico
 - 60-80% glucoronazione
 - 20-30% solfoconiugata
-- &larr;% CitP450 CYP2E1 convertito in N-acetil-p-benzochinoneimina } metabolita tossico inattvato da glutatione; se alta dose 
+- &darr;% CitP450 CYP2E1 convertito in N-acetil-p-benzochinoneimina } metabolita tossico inattvato da glutatione; se &uarr;&uarr;&uarr;dose accumulo e tossicità.
 
 90% eliminazione urinaria in 24h } in Insuff.Renale eliminazione ritardata
 
