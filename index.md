@@ -18,6 +18,9 @@
 
 ### CEFALEA
 
+### LACRIMAZIONE
+Collirio a base di camomilla
+
 ---
 
 
@@ -47,15 +50,28 @@ Metabolismo epatico
 
 
 
+### SINGHIOZZO
 
+**Clopromazina (Largactil 25mg)**: 1 compressa se singhiozzo, ripetibile dopo 12h (Massimo 2 comoresse dì). Fascia A.
 
 ### TOSSE
+
+Paracodeina 20 gocce per tre volte al giorno
+
+### EMOFTOE
+**Acido tranexamico (Ugurol)** 1 fl in 1/2 bicchiere d'acqua
 
 ### RINORREA
 
 ### FARINGODINIA
 
 ---
+
+### DOLORE
+Paracetamolo
+Ibuprofene
+Naprossene
+Ossicodone/Naloxone (Targin)
 
 ### CERVICALGIA
 
@@ -75,11 +91,33 @@ Metabolismo epatico
 
 ### NAUSEA
 
+**Metoclopramide (Plasil)** compresse 10 mg: 1 compressa mezz'ora prima dei pasti principali. Fascia A.
+
+Se nausea e vomito non controllati con solo metoclopramdie &rarr; **Ondaserton** 4mg compresse orosolubili (massimo 2 compresse al giorno per masimo 2-3 giorni consecutivi). Fascia A. } Indicazione per paziente oncologici, non in popolazione generale.
+
+---
+
 ### VOMITO
 
 ### DIARREA
+**Loperamide (Imodium, Dissenten)**: 2 compresse dopo la prima scarica e poi 2 ad ogni ulteriore scarica. Massimo 6-8cp/die. Fascia C.
+
+Fermenti lattici (Codex) 1 compressa tutti i giorni
+
+---
 
 ### STIPSI
+**Macrogol (Movicol)**: 1 bustina al giorno (fino a un massimo di 4 bustine/die)
+
+**Lattulosio (Laevolac)**: 1 cucchiaio da cucina x 3 volte al giorno (Massimo 3 cucchiai x 3 volte al giorno). Fascia C.
+
+**Senna foglia (Pursennid)**: 2 compresse alla sera. Fascia C.
+
+---
+
+### PRURITO
+**Cetirizina 10 mg compresse**: 1 compressa alle sera.
+**Atarax**
 
 ---
 
@@ -99,6 +137,12 @@ Metabolismo epatico
 
 ### TONSILLITE
 
+### MICOSI ORALE
+> Se comparsa di afte o lingua bincastra
+Nistatina (Mycostatin) sospensione: risciacqui del cavo orale 3 volte al giorno, lontano dai pasti per 7 giorni.
+
+Per prevenzione &rarr; H2O 500mL + cucchiaino da tè di bicarbonato + 2 bustine di camomilla in infuso: sciacqui al cavo orale 3 volte al giorno.
+
 ### FARINGITE
 
 ### LARINGITE
@@ -116,6 +160,8 @@ Metabolismo epatico
 ### PERICARDITE
 
 ### GASTRITE
+
+Pantoprazolo (Pantorc) 40mg 1 compressa al mattino a digiuno.
 
 ### COLECISTITE
 
